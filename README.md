@@ -1,4 +1,4 @@
-## Hey
+## Oi
 - 👨‍💻 I am currently in the first year of USC MSCS program.
 - 🐶 I have a super calm husky called Rico, meaning rich in spanish.
 
