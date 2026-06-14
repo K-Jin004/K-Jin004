@@ -1,6 +1,6 @@
 ## Oi
 - 👨‍💻 I am currently in the first year of USC MSCS program.
-- 🐶 I have a super calm husky called Rico, meaning rich in spanish.
+- 🐶 I have a super calm husky called Rico.
 
 <!--
 **K-Jin004/K-Jin004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
